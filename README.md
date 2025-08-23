@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MohammadmahdiNosrati</h1>
 <h3 align="center">A passionate flutter developer from Iran</h3>
-<h2 align="center">My Slogan : Programmers are the gods of technology, capable of creation</h2>
+<h2 align="center">My Slogan : Programmers are the creators of technology, almost godlike in their ability to build.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanolifem&label=Profile%20views&color=0e75b6&style=flat" alt="nanolifem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanolifem" alt="nanolifem" /></a> </p>
