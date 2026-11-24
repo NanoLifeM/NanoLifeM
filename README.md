@@ -1,48 +1,50 @@
 # Hi, I'm Mohammadmahdi Nosrati 👋
 
-### Flutter Developer | Software Engineer
+### Flutter Developer | Software Developer
 
-I build mobile applications with Flutter, focusing on clean architecture, maintainable code, and intuitive user experiences.
+I build modern applications using Flutter, developing for both **Android and Web** platforms.
 
-I enjoy turning ideas into practical software, exploring new technologies, and continuously improving my development skills.
+I'm passionate about software development, clean architecture, and creating efficient, scalable, and user-friendly applications.
 
 ---
 
 ### 💻 About Me
 
 - 🚀 Focused on **Flutter & Dart** development
-- 🏗️ Interested in **Clean Architecture** and scalable application design
-- 📱 Building modern and user-friendly mobile applications
-- 🧠 Always learning, experimenting, and improving
-- 🛠️ Enjoy working with tools and technologies that solve real problems
+- 📱 Building Android applications with Flutter
+- 🌐 Developing responsive web applications with Flutter Web
+- 🐍 Working with Python and C#
+- 🐧 Using Linux as my development environment
+- 🏗️ Interested in Clean Architecture and maintainable code
+- 🧠 Always exploring new technologies and improving my skills
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Mobile Development**
+**Mobile & Web Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
 </p>
 
-**Programming & Web**
+**Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,html,css" />
-</p>
-
-**Database & Storage**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
-  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=python,cs" />
 </p>
 
 **Tools & Environment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux" />
+  <img src="https://skillicons.dev/icons?i=linux,git" />
+</p>
+
+**Databases & Storage**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
+  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" height="48" />
 </p>
 
 ---
