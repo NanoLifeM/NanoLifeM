@@ -20,6 +20,26 @@ I'm passionate about software development, clean architecture, and creating effi
 
 ---
 
+### 💼 Freelance & Project Collaboration
+
+I'm available for freelance projects and collaboration!
+
+I can help you bring your ideas to life by developing modern, high-quality applications.
+
+**Services I Offer:**
+
+- 📱 **Android App Development** — Building modern and user-friendly Android applications with Flutter.
+- 🌐 **Web Development** — Developing responsive web applications using Flutter Web.
+- 🛠️ **Custom Software Solutions** — Turning your ideas and requirements into functional software.
+
+Have a project in mind? Let's work together!
+
+📩 **For project inquiries and collaboration, feel free to contact me via email:**
+
+**[developer.nanolifem@gmail.com](mailto:developer.nanolifem@gmail.com)**
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Mobile & Web Development**
@@ -68,7 +88,7 @@ I'm passionate about software development, clean architecture, and creating effi
     <img src="https://img.shields.io/badge/Instagram-n0srati-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:developer.nanolifem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Project%20Inquiries-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
